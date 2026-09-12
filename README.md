@@ -133,10 +133,3 @@ Documentation/
 ## Report
 
 The complete simulation methodology, model description, results, discussion, and conclusion are available in the project report.
-
-## Author
-
-**Spandan Mondal**
-
-B.Tech Electrical Engineering
-Indian Institute of Technology Bhubaneswar
